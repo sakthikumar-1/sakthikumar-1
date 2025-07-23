@@ -8,15 +8,13 @@
 
 ##  Projects
 
--  *[Diabetes Prediction](#)* — Data Cleaning, EDA, ML Model & Power BI Dashboard  
+-  **[Diabetes Prediction](https://github.com/sakthikumar-1/diabetes-prediction)** — Data Cleaning, EDA, ML Model & Power BI Dashboard  
 
--  *[E-commerce Sales Analysis](#)* — Sales insights from online store data  
+-  **[E-commerce Sales Analysis](https://github.com/sakthikumar-1/ecommerce-sales-analysis)** — Sales insights from online store data  
 
--  *[Bank Loan Risk Analysis](#)* — Risk detection using loan application data  
+-  **[Bank Loan Risk Analysis](https://github.com/sakthikumar-1/bank-loan-risk-analysis)** — Risk detection using loan application data  
 
--  *[Cybercrime & Online Fraud Dashboard](#)* — Fraud cases analysis in Indian cities
-
----
+-  **[Cybercrime & Online Fraud Risk Analysis](https://github.com/sakthikumar-1/cybercrime-dashboard)** — Fraud pattern analysis in Indian cities using data dashboard
 
 ##  Tools & Skills
 
