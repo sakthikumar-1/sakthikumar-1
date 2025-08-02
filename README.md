@@ -8,7 +8,7 @@
 
 ##  Projects
 
--  **[Diabetes Prediction](https://github.com/sakthikumar-1/diabetes-prediction)** — Data Cleaning, EDA, ML Model & Power BI Dashboard  
+-  **[Diabetes Prediction]((https://github.com/sakthikumar-1/diabetes-prediction-DA-and-ML-/tree/main)* — Data Cleaning, EDA, ML Model & Power BI Dashboard  
 
 -  **[E-commerce Sales Analysis](https://github.com/sakthikumar-1/ecommerce-sales-analysis)** — Sales insights from online store data  
 
