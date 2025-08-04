@@ -10,11 +10,11 @@
 
 -  **[Diabetes Prediction](https://github.com/sakthikumar-1/diabetes-prediction-DA-and-ML-)** — Data Cleaning, EDA, ML Model & Power BI Dashboard  
 
--  **[E-commerce Sales Analysis](https://github.com/sakthikumar-1/ecommerce-sales-analysis)** — Sales insights from online store data  
+-  **[E-commerce Sales Analysis](https://github.com/sakthikumar-1/r-E-commerce-Fashion-Sales-Analysis)** — Sales insights from online store data  
 
--  **[Bank Loan Risk Analysis](https://github.com/sakthikumar-1/bank-loan-risk-analysis)** — Risk detection using loan application data  
+-  **[Bank Loan Risk Analysis](https://github.com/sakthikumar-1/Bank-loan-risk-Analysis)** — Risk detection using loan application data  
 
--  **[Cybercrime & Online Fraud Risk Analysis](https://github.com/sakthikumar-1/cybercrime-dashboard)** — Fraud pattern analysis in Indian cities using data dashboard
+-  **[Cybercrime & Online Fraud Risk Analysis](https://github.com/sakthikumar-1/Cybercrime-and-OnlineFraud-Risk-Analysis)** — Fraud pattern analysis in Indian cities using data dashboard
 
 ##  Tools & Skills
 
