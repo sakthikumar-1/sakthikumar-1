@@ -21,7 +21,7 @@
 *Languages*: Python, SQL  
 *Analytics*: Pandas, Numpy, Matplotlib, Seaborn  
 *ML Models*: Logistic Regression, Random Forest  
-*Dashboards*: Power BI  
+*Dashboards*: Power BI,Tableau
 *Workflow*: Jupyter Notebook, GitHub, Excel  
 
 ---
