@@ -1,36 +1,84 @@
-## Hi, I'm Sakthi Kumar B
+# 👋 Hi, I’m Sakthi Kumar B
 
- Aspiring Data Analyst | Python • SQL • Power BI  
- Passionate about solving real-world problems using data  
- Fresher | Eager to learn, build, and contribute  
+**Data Analyst | Full Stack Learner | Insight-Driven Problem Solver**
+
+I work with real-world data to uncover patterns, build predictive models, and convert insights into meaningful dashboards.  
+Alongside analytics, I’m learning full stack development to understand how data-driven applications are built end to end.
+
+**Completed Engineering | Project-Focused | Consistency-Driven**
+
+---
+## 🛠️ Skills
+### 📊 Data Analytics & Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+### 🌐 Web Development & Backend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
 ---
 
-##  Projects
+## 🚀 Projects
 
--  **[Diabetes Prediction](https://github.com/sakthikumar-1/diabetes-prediction-DA-and-ML-)** — Data Cleaning, EDA, ML Model & Power BI Dashboard  
+### 🩺 Diabetes Prediction & Healthcare Analytics  
+🔗 https://github.com/sakthikumar-1/diabetes-prediction-DA-and-ML-  
 
--  **[E-commerce Sales Analysis](https://github.com/sakthikumar-1/r-E-commerce-Fashion-Sales-Analysis)** — Sales insights from online store data  
-
--  **[Bank Loan Risk Analysis](https://github.com/sakthikumar-1/Bank-loan-risk-Analysis)** — Risk detection using loan application data  
-
--  **[Cybercrime & Online Fraud Risk Analysis](https://github.com/sakthikumar-1/Cybercrime-and-OnlineFraud-Risk-Analysis)** — Fraud pattern analysis in Indian cities using data dashboard
-
-##  Tools & Skills
-
-*Languages*: Python, SQL  
-*Analytics*: Pandas, Numpy, Matplotlib, Seaborn  
-*ML Models*: Logistic Regression, Random Forest  
-*Dashboards*: Power BI,Tableau
-*Workflow*: Jupyter Notebook, GitHub, Excel  
+- End-to-end data analytics & ML pipeline  
+- EDA, prediction models, and Power BI dashboards  
 
 ---
 
-##  Let’s Connect!
+### 🛒 E-commerce Sales Analysis  
+🔗 https://github.com/sakthikumar-1/r-E-commerce-Fashion-Sales-Analysis  
 
--  [LinkedIn](https://www.linkedin.com/in/sakthikumar1)
-  
--  [Email](b.sakthikumar10@gmail.com)
+- Sales trends and revenue insights  
+- Customer behavior analysis  
 
 ---
-> 💬 "Turning raw data into meaningful insights – one project at a time!"
+
+### 🏦 Bank Loan Risk Analysis  
+🔗 https://github.com/sakthikumar-1/Bank-loan-risk-Analysis  
+
+- Loan default risk pattern identification  
+- Data-driven credit insights  
+
+---
+
+### 🔐 Cybercrime & Online Fraud Risk Analysis  
+🔗 https://github.com/sakthikumar-1/Cybercrime-and-OnlineFraud-Risk-Analysis  
+
+- City-wise cybercrime analysis  
+- Fraud trend visualization  
+
+---
+
+## 🧠 What Drives Me
+
+I enjoy working where **data, logic, and real-world problems intersect**.  
+I believe in learning by building, strengthening fundamentals, and growing consistently.
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/sakthikumar1  
+- 📧 Email: b.sakthikumar10@gmail.com  
+
+---
+
+> 💬 *“Build skills deeply. Show work honestly. Grow consistently.”*
+
+
+
+
