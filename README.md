@@ -5,7 +5,7 @@
 I work with real-world data to uncover patterns, build predictive models, and convert insights into meaningful dashboards.  
 Alongside analytics, I’m learning full stack development to understand how data-driven applications are built end to end.
 
-**Completed Engineering | Project-Focused | Consistency-Driven**
+**CSE Graduate | Project-Focused | Consistency-Driven**
 
 ---
 
