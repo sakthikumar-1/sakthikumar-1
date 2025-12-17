@@ -5,9 +5,10 @@
 I work with real-world data to uncover patterns, build predictive models, and convert insights into meaningful dashboards.  
 Alongside analytics, I’m learning full stack development to understand how data-driven applications are built end to end.
 
-**CSE Graduate | Project-Focused | Consistency-Driven**
+**Completed Engineering | Project-Focused | Consistency-Driven**
 
 ---
+
 ## 🛠️ Skills
 
 ### 📊 Data Analytics & Machine Learning
@@ -20,8 +21,10 @@ Alongside analytics, I’m learning full stack development to understand how dat
   <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+---
 
 ### 🌐 Web Development & Backend
 <p align="left">
@@ -34,21 +37,20 @@ Alongside analytics, I’m learning full stack development to understand how dat
 
 ---
 
-
 ## 🚀 Projects
 
 ### 🩺 Diabetes Prediction & Healthcare Analytics  
 🔗 https://github.com/sakthikumar-1/diabetes-prediction-DA-and-ML-  
 
-- End-to-end data analytics & ML pipeline  
-- EDA, prediction models, and Power BI dashboards  
+- End-to-end data cleaning, EDA & ML  
+- Power BI dashboards for actionable insights  
 
 ---
 
 ### 🛒 E-commerce Sales Analysis  
 🔗 https://github.com/sakthikumar-1/r-E-commerce-Fashion-Sales-Analysis  
 
-- Sales trends and revenue insights  
+- Sales trend & revenue growth insights  
 - Customer behavior analysis  
 
 ---
@@ -56,22 +58,22 @@ Alongside analytics, I’m learning full stack development to understand how dat
 ### 🏦 Bank Loan Risk Analysis  
 🔗 https://github.com/sakthikumar-1/Bank-loan-risk-Analysis  
 
-- Loan default risk pattern identification  
-- Data-driven credit insights  
+- Identifying loan default risk patterns  
+- Data-driven credit decision support  
 
 ---
 
 ### 🔐 Cybercrime & Online Fraud Risk Analysis  
 🔗 https://github.com/sakthikumar-1/Cybercrime-and-OnlineFraud-Risk-Analysis  
 
-- City-wise cybercrime analysis  
-- Fraud trend visualization  
+- City-wise cybercrime patterns  
+- Fraud trend visualization & dashboards  
 
 ---
 
 ## 🧠 What Drives Me
 
-I enjoy working where **data, logic, and real-world problems intersect**.  
+I enjoy solving problems where **data, logic, and real-world impact intersect**.  
 I believe in learning by building, strengthening fundamentals, and growing consistently.
 
 ---
@@ -83,15 +85,10 @@ I believe in learning by building, strengthening fundamentals, and growing consi
     <img src="https://img.shields.io/badge/LinkedIn-Sakthi%20Kumar%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:b.sakthikumar10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b.sakthikumar10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-b.sakthikumar10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-
 > 💬 *“Build skills deeply. Show work honestly. Grow consistently.”*
-
-
-
-
