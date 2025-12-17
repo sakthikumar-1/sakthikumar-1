@@ -30,7 +30,7 @@
 
 -  [LinkedIn](https://www.linkedin.com/in/sakthikumar1)
   
--  [GitHub](https://github.com/sakthikumar-1)
+-  [Email](b.sakthikumar10@gmail.com)
 
 ---
 > 💬 "Turning raw data into meaningful insights – one project at a time!"
