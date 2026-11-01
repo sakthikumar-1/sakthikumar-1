@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+  <linearGradient id="bg-sig" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#07111F"/>
+    <stop offset="50%" stop-color="#0B1B30"/>
+    <stop offset="100%" stop-color="#040A14"/>
+  </linearGradient>
+  <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.35"/>
+  </filter>
+</defs>
+
+<rect width="1200" height="260" rx="22" fill="url(#bg-sig)" stroke="#1E293B" stroke-width="1.5"/>
+
+<!-- HEADER -->
+<g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Arial, sans-serif">
+  <text x="50" y="45" font-size="12" font-weight="700" fill="#64748B" letter-spacing="2">REAL-TIME REPOSITORY INTELLIGENCE</text>
+  <text x="50" y="70" font-size="20" font-weight="800" fill="#F8FAFC">ENGINEERING SIGNALS &amp; SPECIALIZATION RADAR</text>
+  <g transform="translate(1030, 48)">
+    <circle cx="8" cy="8" r="6" fill="#22C55E"/>
+    <text x="24" y="12" font-size="13" font-weight="600" fill="#86EFAC">ACTIVELY BUILDING</text>
+  </g>
+</g>
+
+<!-- 3 METRIC TILES -->
+<g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Arial, sans-serif" filter="url(#card-shadow)">
+  <!-- TILE 1: FULL STACK -->
+  <g transform="translate(40, 95)">
+    <rect width="350" height="135" rx="14" fill="#0D2238" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="25" y="35" font-size="15" font-weight="800" fill="#38BDF8">🌐 FULL STACK ARCHITECTURE</text>
+    <text x="25" y="60" font-size="12" font-weight="600" fill="#94A3B8">FASTAPI · DJANGO · FLASK · JS</text>
+    <path d="M25 72H325" stroke="#38BDF8" stroke-width="1" opacity="0.2"/>
+    <text x="25" y="94" font-size="13" font-weight="500" fill="#E2E8F0">▸ Scalable Backend APIs &amp; Services</text>
+    <text x="25" y="116" font-size="13" font-weight="500" fill="#CBD5E1">▸ Relational &amp; NoSQL Data Persistence</text>
+  </g>
+
+  <!-- TILE 2: DATA ANALYTICS -->
+  <g transform="translate(425, 95)">
+    <rect width="350" height="135" rx="14" fill="#0E2145" stroke="#3B82F6" stroke-width="1.5"/>
+    <text x="25" y="35" font-size="15" font-weight="800" fill="#60A5FA">📊 DATA ANALYTICS &amp; BI</text>
+    <text x="25" y="60" font-size="12" font-weight="600" fill="#93C5FD">POWER BI · TABLEAU · EXCEL · DAX</text>
+    <path d="M25 72H325" stroke="#3B82F6" stroke-width="1" opacity="0.2"/>
+    <text x="25" y="94" font-size="13" font-weight="500" fill="#E2E8F0">▸ Exploratory Data Analysis &amp; ETL</text>
+    <text x="25" y="116" font-size="13" font-weight="500" fill="#CBD5E1">▸ Interactive Executive Dashboards</text>
+  </g>
+
+  <!-- TILE 3: MACHINE LEARNING -->
+  <g transform="translate(810, 95)">
+    <rect width="350" height="135" rx="14" fill="#181A45" stroke="#818CF8" stroke-width="1.5"/>
+    <text x="25" y="35" font-size="15" font-weight="800" fill="#A5B4FC">🤖 MACHINE LEARNING</text>
+    <text x="25" y="60" font-size="12" font-weight="600" fill="#C7D2FE">SCIKIT-LEARN · NUMPY · PANDAS</text>
+    <path d="M25 72H325" stroke="#818CF8" stroke-width="1" opacity="0.2"/>
+    <text x="25" y="94" font-size="13" font-weight="500" fill="#E2E8F0">▸ Supervised &amp; Unsupervised Models</text>
+    <text x="25" y="116" font-size="13" font-weight="500" fill="#CBD5E1">▸ Feature Engineering &amp; Evaluation</text>
+  </g>
+</g>
+</svg>

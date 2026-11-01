@@ -7,12 +7,10 @@
    - GitHub automatically recognizes this repository as your **Special Profile README** and displays it prominently on your main profile page (`https://github.com/sakthikumar-1`).
 
 2. **Asset Structure**:
-   - The visual assets (`sakthi-hero.png`, `technology-map.svg`, and `workflow.svg`) are stored in both the repository root and the `assets/` directory.
+   - All visual assets (`sakthi-hero.png`, `domains-matrix.svg`, `technology-map.svg`, `workflow.svg`, and `github-metrics.svg`) are stored in both the repository root and the `assets/` directory.
    - This ensures 100% path resolution and zero broken image links regardless of whether GitHub or a Markdown previewer queries the root or the `assets/` subfolder.
 
-3. **Live Widgets & Dynamic Statistics**:
-   - Dynamic typing SVG: Animated live greeting banner via `readme-typing-svg`.
-   - Real-time GitHub Analytics: Fetches real-time commits, streaks, and top languages.
-   - Profile Views Counter: Increments dynamically upon profile visits.
+3. **Rate-Limit-Proof GitHub Metrics**:
+   - Replaced fragile public Vercel endpoints with a dedicated local vector card (`github-metrics.svg`), live Streak Stats (`streak-stats.demolab.com`), and dynamic Commit Activity Graph.
 
 Curiosity drives exploration. Logic drives creation.

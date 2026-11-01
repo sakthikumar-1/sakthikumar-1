@@ -140,17 +140,19 @@
 ### 📈 REAL-TIME GITHUB SIGNALS
 
 <a href="https://github.com/sakthikumar-1">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sakthikumar-1&show_icons=true&hide_border=true&bg_color=07111F&title_color=60A5FA&icon_color=38BDF8&text_color=DCEBFA&rank_icon=github" alt="Sakthi Kumar's GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/sakthikumar-1">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthikumar-1&layout=compact&hide_border=true&bg_color=07111F&title_color=60A5FA&text_color=DCEBFA" alt="Most Used Languages" />
+  <img src="github-metrics.svg" width="100%" alt="Sakthi Kumar - Engineering Signals & Repository Radar" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/sakthikumar-1">
-  <img width="88%" src="https://streak-stats.demolab.com?user=sakthikumar-1&theme=transparent&hide_border=true&background=07111F&ring=38BDF8&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=DCEBFA&dates=94A3B8" alt="GitHub Contribution Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=sakthikumar-1&theme=transparent&hide_border=true&background=07111F&ring=38BDF8&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=DCEBFA&dates=94A3B8" alt="GitHub Contribution Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sakthikumar-1">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakthikumar-1&bg_color=07111F&color=38BDF8&line=2563EB&point=F59E0B&area=true&hide_border=true" alt="Commit Activity Graph" />
 </a>
 
 </div>
