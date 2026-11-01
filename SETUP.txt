@@ -1,8 +1,18 @@
-# Sakthi Kumar — GitHub profile README
+# Sakthi Kumar — GitHub Profile README
 
-## Publish
-1. Create or open the repository named `sakthikumar-1` only if that is your GitHub username. For a profile README, the repository name must exactly match your GitHub username.
-2. Upload `README.md` and the complete `assets/` folder, preserving the folder structure.
-3. Commit the changes. The README references the local assets using relative paths.
+## Publishing Guide
 
-The hero is a decorative visual. The live statistics panels are fetched from third-party GitHub README services and may be delayed or unavailable.
+1. **Repository Configuration**:
+   - Ensure the repository name is exactly `sakthikumar-1` (matching your GitHub username `sakthikumar-1`).
+   - GitHub automatically recognizes this repository as your **Special Profile README** and displays it prominently on your main profile page (`https://github.com/sakthikumar-1`).
+
+2. **Asset Structure**:
+   - The visual assets (`sakthi-hero.png`, `technology-map.svg`, and `workflow.svg`) are stored in both the repository root and the `assets/` directory.
+   - This ensures 100% path resolution and zero broken image links regardless of whether GitHub or a Markdown previewer queries the root or the `assets/` subfolder.
+
+3. **Live Widgets & Dynamic Statistics**:
+   - Dynamic typing SVG: Animated live greeting banner via `readme-typing-svg`.
+   - Real-time GitHub Analytics: Fetches real-time commits, streaks, and top languages.
+   - Profile Views Counter: Increments dynamically upon profile visits.
+
+Curiosity drives exploration. Logic drives creation.

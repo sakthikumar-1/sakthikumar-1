@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#38BDF8"/><stop offset=".55" stop-color="#2563EB"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="250" rx="22" fill="#07111F"/>
+<path d="M150 125H1050" stroke="url(#g)" stroke-width="3" opacity=".8"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+ <g filter="url(#glow)">
+  <circle cx="150" cy="125" r="48" fill="#0B2037" stroke="#38BDF8" stroke-width="2"/>
+  <circle cx="450" cy="125" r="48" fill="#0B2037" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="750" cy="125" r="48" fill="#0B2037" stroke="#6366F1" stroke-width="2"/>
+  <circle cx="1050" cy="125" r="48" fill="#0B2037" stroke="#F59E0B" stroke-width="2"/>
+ </g>
+ <g fill="#EAF4FF" font-size="18" font-weight="700">
+  <text x="150" y="132">01</text><text x="450" y="132">02</text><text x="750" y="132">03</text><text x="1050" y="132">04</text>
+ </g>
+ <g fill="#D6E8FA" font-size="21" font-weight="700">
+  <text x="150" y="205">OBSERVE</text><text x="450" y="205">ANALYZE</text><text x="750" y="205">ENGINEER</text><text x="1050" y="205">IMPROVE</text>
+ </g>
+</g>
+</svg>
