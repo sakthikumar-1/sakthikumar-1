@@ -2,175 +2,142 @@
 
 <!-- DYNAMIC TYPING SVG HEADER -->
 <a href="https://github.com/sakthikumar-1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=%E2%96%B8+Hello%2C+World!+I'm+Sakthi+Kumar+%F0%9F%91%8B;%E2%96%B8+Data+Intelligence+%7C+Predictive+Analytics+%F0%9F%93%8A;%E2%96%B8+Python+Developer+%7C+Software+Engineer+%E2%9A%99%EF%B8%8F;%E2%96%B8+Turning+Information+into+Actionable+Insight+%F0%9F%92%A1;%E2%96%B8+Curiosity+drives+exploration.+Logic+drives+creation.+%F0%9F%9A%80" alt="Sakthi Kumar - Dynamic Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full+Stack+Engineer+%E2%9A%A1+Data+Analyst+%F0%9F%93%8A+ML+Developer+%F0%9F%A4%96;Full+Stack+Web+Apps+%26+Robust+Backend+Architectures;Predictive+Machine+Learning+%26+Business+Intelligence+Pipelines;Curiosity+Drives+Exploration.+Logic+Drives+Creation." alt="Sakthi Kumar - Dynamic Typing Banner" />
 </a>
 
 <br/><br/>
 
 <!-- HERO BANNER -->
 <a href="https://github.com/sakthikumar-1">
-  <img src="sakthi-hero.png" width="100%" alt="Sakthi Kumar — Data Intelligence, Software Engineering & Python Development" style="max-width: 100%; border-radius: 14px;" />
+  <img src="sakthi-hero.png" width="100%" alt="Sakthi Kumar — Full Stack, Data Analytics & Machine Learning" style="max-width: 100%; border-radius: 14px;" />
 </a>
 
 <br/><br/>
 
-<!-- INTERACTIVE CONNECT DOCK -->
+<!-- SPECIALIZATION & CONNECT BADGE DOCK -->
+<img src="https://img.shields.io/badge/FULL%20STACK-ENGINEERING-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+&nbsp;
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-BI%20%26%20EDA-3B82F6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
+&nbsp;
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-PREDICTIVE-818CF8?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/sakthikumar1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:b.sakthikumar10@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://github.com/sakthikumar-1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=sakthikumar-1&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" />
 
 <br/><br/>
 
-### **DATA INTELLIGENCE &nbsp;·&nbsp; PYTHON DEVELOPMENT &nbsp;·&nbsp; SOFTWARE ENGINEERING**
-
-*Turning raw information into insight. Turning clean logic into impactful applications.*
+```
+✦  FULL STACK ARCHITECTURE  ·  DATA ANALYTICS & BI  ·  MACHINE LEARNING  ✦
+```
 
 </div>
 
 ---
 
-### ⚡ The Person Behind the Code
+<div align="center">
 
-I am a **Computer Science Engineering graduate** focused on the intersection where **data intelligence**, **backend software engineering**, and **systems thinking** meet.
+### ⚡ SPECIALIZATION MATRIX: FULL STACK ✕ DATA ANALYTICS ✕ MACHINE LEARNING
 
-I enjoy taking complex, unstructured datasets and distilling them into clear, predictive insights — as well as architecting robust, modular backend services that solve real-world problems. My engineering approach is grounded in first principles: understanding the fundamental system constraints before writing code, prioritizing clarity over cleverness, and iterating relentlessly toward high quality.
+<a href="https://github.com/sakthikumar-1">
+  <img src="domains-matrix.svg" width="100%" alt="Specialization Matrix: Full Stack, Data Analytics, Machine Learning" />
+</a>
 
-#### 💡 Working Principles
-* **Understand Before Building** — Deconstruct the core problem and requirements to first principles.
-* **Think in Systems** — Architect end-to-end data flows with scalability, maintainability, and reliability in mind.
-* **Write Clear, Self-Documenting Logic** — Clean code, strong typing, and modular architectures that are built to last.
-* **Learn by Implementation** — Cement technical depth through hands-on building, practical experimentation, and real-world delivery.
-* **Iterate & Evolve Continuously** — Relentlessly benchmark, refactor, and elevate the standard of what I build.
+</div>
 
 ---
 
-### 🔄 Engineering Process
+<div align="center">
+
+### 🔄 SYSTEMATIC ENGINEERING WORKFLOW
+
+<a href="https://github.com/sakthikumar-1">
+  <img src="workflow.svg" width="100%" alt="Observe, Analyze, Engineer, Improve Workflow" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
-  <a href="https://github.com/sakthikumar-1">
-    <img src="workflow.svg" width="100%" alt="Observe, Analyze, Engineer, Improve Workflow" />
-  </a>
+
+### 🗺️ TECHNICAL LANDSCAPE & ARCHITECTURAL STACK
+
+<a href="https://github.com/sakthikumar-1">
+  <img src="technology-map.svg" width="100%" alt="Technology Map: Full Stack, Data Analytics, Machine Learning, Databases & Tools" />
+</a>
+
+<br/><br/>
+
+#### 🚀 Interactive Development Ecosystem
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,fastapi,django,flask,py,mysql,postgres,mongodb,postman,git,github,vscode,linux" alt="Tech Stack Icons" />
+</a>
+
 </div>
 
 <br/>
-
-* **01 · OBSERVE** — Problem deconstruction, constraint mapping, stakeholder discovery, and data auditing.
-* **02 · ANALYZE** — Exploratory data analysis, statistical modeling, relational schema architecture, and trade-off evaluation.
-* **03 · ENGINEER** — Clean Python backend implementation, RESTful API design, database querying, and predictive intelligence.
-* **04 · IMPROVE** — Benchmark testing, code refactoring, algorithmic optimization, and continuous refinement.
-
----
-
-### 🗺️ Technology Landscape
-
-<div align="center">
-  <img src="technology-map.svg" width="100%" alt="Technology Landscape: Data, Development, Databases, Tools" />
-</div>
-
-<br/>
-
-#### 🛠️ Tech Stack & Skill Matrix
-
-* **Languages & Core**  
-  `Python` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` &nbsp;·&nbsp; `C / C++`
-
-* **Data Intelligence & Machine Learning**  
-  `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Scikit-Learn` &nbsp;·&nbsp; `Matplotlib` &nbsp;·&nbsp; `Seaborn` &nbsp;·&nbsp; `Power BI` &nbsp;·&nbsp; `Tableau` &nbsp;·&nbsp; `Advanced Excel`
-
-* **Software & Backend Engineering**  
-  `FastAPI` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `RESTful APIs` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `Backend Architecture`
-
-* **Databases & Storage**  
-  `MySQL` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Relational Schema Design` &nbsp;·&nbsp; `Query Optimization`
-
-* **Developer Tools & Ecosystem**  
-  `Git` &nbsp;·&nbsp; `GitHub` &nbsp;·&nbsp; `VS Code` &nbsp;·&nbsp; `Jupyter Notebook` &nbsp;·&nbsp; `Linux / WSL` &nbsp;·&nbsp; `Postman`
 
 <details>
-<summary>🔍 <b>Click to expand detailed competency breakdown</b></summary>
+<summary>🔍 <b>Click to expand granular technical proficiencies</b></summary>
 
 <br/>
 
-* **Data Intelligence & Predictive Analytics**:
-  * Extensive experience in Exploratory Data Analysis (EDA), automated data cleaning, outlier detection, and feature engineering.
-  * Applied machine learning: classification, regression, clustering, model evaluation, and cross-validation with Scikit-learn.
-  * Executive dashboarding and visual storytelling with Power BI (DAX, data modeling) and Tableau.
-* **Backend Application Engineering**:
-  * Clean object-oriented programming in Python, adhering to SOLID principles and design patterns.
-  * High-performance API design with FastAPI and Flask, including request validation and error handling.
-  * Relational database design, normalization, ACID compliance, and indexing strategies in MySQL and PostgreSQL.
-* **Engineering Workflow**:
-  * Version control with Git/GitHub, structured commit hygiene, branch management, and collaborative development.
-  * REST API testing with Postman, environment management, and rapid prototyping with Jupyter.
+* **🌐 Full-Stack Web & Backend Engineering**:
+  * Scalable backend architecture with **FastAPI**, **Django**, and **Flask** with modular routing and clean MVC patterns.
+  * Modern frontend development with **JavaScript (ES6+)**, **HTML5**, **CSS3**, and responsive component layouts.
+  * RESTful API lifecycle design: contract specifications, token-based authentication, and performance optimization.
+* **📊 Data Analytics & Business Intelligence**:
+  * Exploratory Data Analysis (EDA), automated data cleaning, missing value imputation, and anomaly detection.
+  * Executive reporting and dashboard development with **Power BI** (DAX measures, relational modeling) and **Tableau**.
+  * Advanced numerical analysis with **Pandas**, **NumPy**, and **Advanced Excel**.
+* **🤖 Machine Learning & Data Science**:
+  * Supervised and unsupervised machine learning models built with **Scikit-Learn**.
+  * Predictive classification, regression modeling, clustering, and feature selection pipelines.
+  * Rigorous model validation: cross-validation, hyperparameter tuning, precision/recall, ROC-AUC, and RMSE metrics.
+* **🛠️ Database Architecture & Developer Tools**:
+  * Relational database engineering: **MySQL**, **PostgreSQL**, schema normalization, indexing, and ACID transactions.
+  * Document persistence: **MongoDB** collections and aggregation pipelines.
+  * Development workflow: **Git**, **GitHub**, **VS Code**, **Jupyter Notebook**, **Postman**, and **Linux/WSL**.
 
 </details>
 
 ---
 
-### 🎯 Core Domains of Exploration
-
-#### 📊 Data Intelligence
-* **Exploratory Data Analysis (EDA)**: Extracting actionable signal and hidden patterns from high-dimensional datasets.
-* **ETL & Data Cleaning**: Automated pipeline scripts, data normalization, missing value imputation, and validation.
-* **Predictive Modeling**: Supervised machine learning algorithms, model evaluation metrics, and hyperparameter tuning.
-* **Business Intelligence & Dashboards**: Interactive KPI reporting, DAX calculations, and executive visual reporting.
-
-#### ⚙️ Application Engineering
-* **Python Backend Development**: Modular, scalable architecture utilizing clean OOP and reusable components.
-* **RESTful API Design**: Stateless endpoint architectures, structured JSON payloads, and robust error contracts.
-* **Database Integration**: Seamless application-to-database interfaces, schema migrations, and optimized queries.
-* **Full-Stack Prototyping**: Connecting responsive frontends with robust, data-backed Python backends.
-
-#### 🧩 Systems & Logic
-* **Problem Decomposition**: Deconstructing large, ambiguous challenges into modular, testable units.
-* **Application Architecture**: Decoupling presentation layers from business logic and database interactions.
-* **Database Modeling**: Designing efficient schemas, indexing key columns, and ensuring referential integrity.
-* **Automation**: Automating repetitive data transformations and system workflows with clean Python scripts.
-
-#### 🚀 Continuous Exploration
-* **Modern API Architecture**: High-throughput asynchronous endpoints with FastAPI and Pydantic validation.
-* **Advanced Python**: Concurrency (`asyncio`), decorators, generators, and memory-efficient data structures.
-* **Scalable Patterns**: Microservice decomposition, caching strategies, and containerization fundamentals.
-
----
-
-### 📍 Current Vector
-
 <div align="center">
 
-<a href="https://github.com/sakthikumar-1">
-  <img src="https://img.shields.io/badge/FOCUS-ADVANCED%20PYTHON-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Focus: Advanced Python" />
-</a>
+### 📍 CURRENT TECHNICAL VECTOR
+
+<img src="https://img.shields.io/badge/ACTIVE%20FOCUS-FULL%20STACK%20%26%20FASTAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="Active Focus: Full Stack & FastAPI" />
 &nbsp;
-<a href="https://github.com/sakthikumar-1">
-  <img src="https://img.shields.io/badge/EXPLORING-FASTAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="Exploring: FastAPI" />
-</a>
+<img src="https://img.shields.io/badge/DATA%20FOCUS-ADVANCED%20ANALYTICS-0EA5E9?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Focus: Advanced Analytics" />
 &nbsp;
-<a href="https://github.com/sakthikumar-1">
-  <img src="https://img.shields.io/badge/DIRECTION-BACKEND%20%26%20SYSTEMS-3730A3?style=for-the-badge" alt="Direction: Backend & Systems" />
-</a>
+<img src="https://img.shields.io/badge/ML%20VECTOR-PREDICTIVE%20SYSTEMS-818CF8?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML Vector: Predictive Systems" />
 
 </div>
 
 <br/>
 
-> **Active Focus**: Strengthening production-grade backend engineering with FastAPI, designing high-throughput API microservices, mastering advanced relational database querying and optimization, and shipping complete, end-to-end data-driven applications.
+> **Engineering Horizon**: Architecting high-throughput full-stack web applications, engineering robust predictive machine learning pipelines, and deploying interactive, data-driven business intelligence dashboards.
 
 ---
 
-### 📈 GitHub Real-Time Signals
-
 <div align="center">
+
+### 📈 REAL-TIME GITHUB SIGNALS
 
 <a href="https://github.com/sakthikumar-1">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=sakthikumar-1&show_icons=true&hide_border=true&bg_color=07111F&title_color=60A5FA&icon_color=38BDF8&text_color=DCEBFA&rank_icon=github" alt="Sakthi Kumar's GitHub Stats" />
@@ -199,7 +166,7 @@ I enjoy taking complex, unstructured datasets and distilling them into clear, pr
 <br/>
 
 **SAKTHI KUMAR B**  
-*Computer Science & Engineering Graduate &nbsp;·&nbsp; Data Intelligence & Software Engineer*
+*Computer Science & Engineering Graduate &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Machine Learning*
 
 <br/>
 
